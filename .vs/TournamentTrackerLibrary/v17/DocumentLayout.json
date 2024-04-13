@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|c:\\users\\administrator\\onedrive\\documents\\c#-and-java-including-school\\projects\\tournamenttrackerlibrary\\tournamenttrackerlibrary\\models\\tournamentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|solutionrelative:tournamenttrackerlibrary\\models\\tournamentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|c:\\users\\administrator\\onedrive\\documents\\c#-and-java-including-school\\projects\\tournamenttrackerlibrary\\tournamenttrackerlibrary\\models\\teammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|solutionrelative:tournamenttrackerlibrary\\models\\teammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230FD8CE-DCF7-4B8B-9B6D-FFB6E97E80EC}|TournamentTrackerUI\\TournamentTrackerUI.csproj|c:\\users\\administrator\\onedrive\\documents\\c#-and-java-including-school\\projects\\tournamenttrackerlibrary\\tournamenttrackerui\\createtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{230FD8CE-DCF7-4B8B-9B6D-FFB6E97E80EC}|TournamentTrackerUI\\TournamentTrackerUI.csproj|solutionrelative:tournamenttrackerui\\createtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230FD8CE-DCF7-4B8B-9B6D-FFB6E97E80EC}|TournamentTrackerUI\\TournamentTrackerUI.csproj|C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\tournamenttrackerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230FD8CE-DCF7-4B8B-9B6D-FFB6E97E80EC}|TournamentTrackerUI\\TournamentTrackerUI.csproj|solutionrelative:tournamenttrackerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\tournamenttrackerlibrary\\dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|solutionrelative:tournamenttrackerlibrary\\dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\tournamenttrackerlibrary\\dataaccess\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|solutionrelative:tournamenttrackerlibrary\\dataaccess\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\tournamenttrackerlibrary\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|solutionrelative:tournamenttrackerlibrary\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230FD8CE-DCF7-4B8B-9B6D-FFB6E97E80EC}|TournamentTrackerUI\\TournamentTrackerUI.csproj|c:\\users\\administrator\\onedrive\\documents\\c#-and-java-including-school\\projects\\tournamenttrackerlibrary\\tournamenttrackerui\\createteamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230FD8CE-DCF7-4B8B-9B6D-FFB6E97E80EC}|TournamentTrackerUI\\TournamentTrackerUI.csproj|solutionrelative:tournamenttrackerui\\createteamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|c:\\users\\administrator\\onedrive\\documents\\c#-and-java-including-school\\projects\\tournamenttrackerlibrary\\tournamenttrackerlibrary\\dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|solutionrelative:tournamenttrackerlibrary\\dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\tournamenttrackerlibrary\\dataaccess\\textconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|solutionrelative:tournamenttrackerlibrary\\dataaccess\\textconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\tournamenttrackerlibrary\\models\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE740AE3-92AE-409E-9849-CA82DE378FE4}|TournamentTrackerLibrary\\TournamentTrackerLibrary.csproj|solutionrelative:tournamenttrackerlibrary\\models\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TournamentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\Models\\TournamentModel.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerLibrary\\Models\\TournamentModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\Models\\TournamentModel.cs",
+              "RelativeToolTip": "TournamentTrackerLibrary\\Models\\TournamentModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:17:30.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTournamentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerUI\\CreateTournamentForm.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerUI\\CreateTournamentForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerUI\\CreateTournamentForm.cs [Design]",
+              "RelativeToolTip": "TournamentTrackerUI\\CreateTournamentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:16:10.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\Models\\TeamModel.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerLibrary\\Models\\TeamModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\Models\\TeamModel.cs",
+              "RelativeToolTip": "TournamentTrackerLibrary\\Models\\TeamModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:22:58.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextConnectorProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "RelativeToolTip": "TournamentTrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:14:33.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerUI\\Program.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerUI\\Program.cs",
+              "RelativeToolTip": "TournamentTrackerUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:43:24.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\DataAccess\\TextConnector.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerLibrary\\DataAccess\\TextConnector.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\DataAccess\\TextConnector.cs",
+              "RelativeToolTip": "TournamentTrackerLibrary\\DataAccess\\TextConnector.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowGYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:34:59.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "RelativeToolTip": "TournamentTrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:33:18.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\DataAccess\\SQLConnector.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerLibrary\\DataAccess\\SQLConnector.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\DataAccess\\SQLConnector.cs",
+              "RelativeToolTip": "TournamentTrackerLibrary\\DataAccess\\SQLConnector.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwGIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:28:40.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrizeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\Models\\PrizeModel.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerLibrary\\Models\\PrizeModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\Models\\PrizeModel.cs",
+              "RelativeToolTip": "TournamentTrackerLibrary\\Models\\PrizeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:28:38.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerLibrary\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerLibrary\\Models\\PersonModel.cs",
+              "RelativeToolTip": "TournamentTrackerLibrary\\Models\\PersonModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:10:30.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTeamForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerUI\\CreateTeamForm.cs",
+              "RelativeDocumentMoniker": "TournamentTrackerUI\\CreateTeamForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Documents\\C#-And-Java-Including-School\\projects\\TournamentTrackerLibrary\\TournamentTrackerUI\\CreateTeamForm.cs",
+              "RelativeToolTip": "TournamentTrackerUI\\CreateTeamForm.cs",
+              "ViewState": "AQIAAAkBAAAAAAAAAAAowBsBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:18:38.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

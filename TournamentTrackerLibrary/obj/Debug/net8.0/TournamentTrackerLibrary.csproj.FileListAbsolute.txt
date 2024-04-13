@@ -1,0 +1,13 @@
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\bin\Debug\net8.0\TournamentTrackerLibrary.deps.json
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\bin\Debug\net8.0\TournamentTrackerLibrary.dll
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\bin\Debug\net8.0\TournamentTrackerLibrary.pdb
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\obj\Debug\net8.0\TournamentTrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\obj\Debug\net8.0\TournamentTrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\obj\Debug\net8.0\TournamentTrackerLibrary.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\obj\Debug\net8.0\TournamentTrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\obj\Debug\net8.0\TournamentTrackerLibrary.sourcelink.json
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\obj\Debug\net8.0\TournamentTrackerLibrary.dll
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\obj\Debug\net8.0\refint\TournamentTrackerLibrary.dll
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\obj\Debug\net8.0\TournamentTrackerLibrary.pdb
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\obj\Debug\net8.0\ref\TournamentTrackerLibrary.dll
+C:\Users\Administrator\OneDrive\Documents\C#-And-Java-Including-School\projects\TournamentTrackerLibrary\TournamentTrackerLibrary\obj\Debug\net8.0\TournamentTrackerLibrary.csproj.AssemblyReference.cache
